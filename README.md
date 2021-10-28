@@ -32,16 +32,16 @@ First steps with java
 
 This repository is my first steps with Java, it contain:
 
-[Loop that prints the 1st 50 numbers](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio1.java)
+[Loop that prints the 1st 50 numbers](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio1.java)
 
-[Odd numbers](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio2.java)
+[Odd numbers](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio2.java)
 
-[Simple Multiplication Table](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio3.java)
+[Simple Multiplication Table](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio3.java)
 
-[Avarege age of 10 people](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio4.java)
+[Avarege age of 10 people](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio4.java)
 
-[The odd and even numbers](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio5.java)
+[The odd and even numbers](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio5.java)
 
-[Numbers between and out 10 to 20](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio6.java)
+[Numbers between and out 10 to 20](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio6.java)
 
-[Number between 12 and 20](https://github.com/MrFahrenhei/Java-2/blob/main/Exercicio7.java)
+[Number between 12 and 20](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-2/blob/main/Exercicio7.java)
