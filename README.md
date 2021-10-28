@@ -12,7 +12,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/VitorDietrich-Coder/Exercicio-JAVA-2?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/VitorDietrich-Coder/Exercicio-JAVA-2?style=for-the-badge)
 
-First steps with java
+A little more of my studie in java
 
 <p align="left">
   🦄 Language: <strong> 
